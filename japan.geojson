@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hokkaido"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          // 座標データ
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aomori"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          // 座標データ
+        ]
+      }
+    }
+    // 他の都道府県のデータ
+  ]
+}
